@@ -1,4 +1,4 @@
-package Chater6.workshop;
+package Chater6.workshop01;
 
 public class Genesis extends Car {
     @Override
